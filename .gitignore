@@ -1,2 +1,3 @@
 assets/videos/*.mp4
 build/
+.flutter*
